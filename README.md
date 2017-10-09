@@ -1,2 +1,2 @@
 # Colours
-Testing gitnub functionalities using this repo 
+Testing github functionalities using this repo 
